@@ -7,7 +7,7 @@
 Au niveau de votre disque C, ouvirir une console cmd et ecrire:
 `mkdir c:\GTMDemoFormation`
 
-`cd c:\DemoFormation`
+`cd c:\GTMDemoFormation`
 
 `mvn scm:checkout  -DconnectionUrl=scm:git:https://github.com/BenKapoor/DemoFormation`
 
