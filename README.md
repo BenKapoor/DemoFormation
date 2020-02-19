@@ -5,12 +5,13 @@
 0bis- Récupération du war
 
 Au niveau de votre disque C, ouvirir une console cmd et ecrire:
-`mkdir C:\GTMServlet
-cd C:\GTMServlet`
+`mkdir C:\GTMDemoFormation`
+
+`cd C:\DemoFormation`
 
 `mvn scm:checkout  -DconnectionUrl=scm:git:https://github.com/BenKapoor/DemoFormation`
 
-Aller dans `target\checkout\GTMServlet`
+Aller dans `target\checkout\DemoFormation`
 
 Exécuter la commande :
 `mvn install`
