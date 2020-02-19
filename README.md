@@ -5,9 +5,9 @@
 0bis- Récupération du war
 
 Au niveau de votre disque C, ouvirir une console cmd et ecrire:
-`mkdir C:\GTMDemoFormation`
+`mkdir c:\GTMDemoFormation`
 
-`cd C:\DemoFormation`
+`cd c:\DemoFormation`
 
 `mvn scm:checkout  -DconnectionUrl=scm:git:https://github.com/BenKapoor/DemoFormation`
 
