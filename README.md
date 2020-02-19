@@ -1,6 +1,6 @@
 # DemoFormation
 
-0- Installer TomcatServer 9.0 | Utilisation de Java v.8.x - Créer une base mysql demoformation
+0- Installer TomcatServer 9.0 | Utilisation de Java v.8.x - Créer une base mysql à l'aide de wamp qui se nomera demoformation
 
 0bis- Récupération du war
 
