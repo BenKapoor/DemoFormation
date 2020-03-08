@@ -22,7 +22,7 @@ Aller dans le dossier target et récupérer le war génréré.
 
 2- Executer startup.bat situé dans le dossier `bin` de tomcat 
 
-3- Dans l'url du navigateur internet, entrer la commande suivante : http://localhost:8080/DemoFormation/ajouterFormation
+3- Dans l'url du navigateur internet, entrer la commande suivante : http://localhost:8080/GestionEtudiant/
 
 Fonctionnalités présentes :
 - Ajouter un thème à la formation
