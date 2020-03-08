@@ -1,13 +1,13 @@
 # DemoFormation
 
-0- <b>Installation</b>
+<b>0- Installation</b>
 
 a- TomcatServer 9.0 | Utilisation de Java v.8.x - 
 
 b- Créer une base mysql à l'aide de wamp qui se nomera demoformation et importer le fichier gestionetudiant.sql 
 permettant d'avoir des données exemples et de connection.
 
-0bis- Récupération du war
+<b>0bis- Récupération du war</b>
 
 Au niveau de votre disque C, ouvirir une console cmd et ecrire:
 `mkdir c:\GTMDemoFormation`
@@ -23,16 +23,16 @@ Exécuter la commande :
 
 Aller dans le dossier target et récupérer le war génréré.
 
-1- Deplacer le fichier DemoFormation.war dans le dossier `webapps` de Tomcat
+<b>1- Deplacer le fichier DemoFormation.war dans le dossier `webapps` de Tomcat </b>
 
-2- Executer startup.bat situé dans le dossier `bin` de tomcat 
+<b>2- Executer startup.bat situé dans le dossier `bin` de tomcat </b>
 
-3- Dans l'url du navigateur internet, entrer la commande suivante : http://localhost:8080/GestionEtudiant/
+<b>3- Dans l'url du navigateur internet, entrer la commande suivante : http://localhost:8080/GestionEtudiant/ </b>
 
-Fonctionnalités présentes :
+<b>Fonctionnalités présentes : </b>
 - Ajouter un thème à la formation
 
-Technologies :
+<b>Technologies : </b>
 - servlet
 - HTML
 - JSP
